@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hey there, I'm Oluwatomisin Oduniyi
 
-<!--
-**Tomisin2006/Tomisin2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer and Computer Engineering student at Covenant University, currently in my 4th year, who loves crafting beautiful, responsive, and user-centered web experiences.
+I’m passionate about turning ideas into interactive interfaces that make people’s digital lives easier and more enjoyable.
 
-Here are some ideas to get you started:
+💻 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Build clean and scalable web applications using HTML, CSS, JavaScript, and React
+
+🎨 Translate Figma designs into pixel-perfect code
+
+🧩 Collaborate on UI/UX decisions to create seamless experiences
+
+🚀 Constantly learning and improving my craft
+
+🧠 Currently Exploring
+
+Advanced React patterns and TypeScript
+
+UI animations with Framer Motion
+
+Performance optimization and accessibility best practices
+
+🌍 Beyond the Code
+
+When I’m not coding, I’m probably sketching new design ideas, exploring front-end trends, or learning something creative that makes me a better developer (and a happier one 😉).
+
+📫 Let’s Connect
+
+💼 LinkedIn : [https://www.linkedin.com/in/oluwatomisin-oduniyi-490aab385/]
+
