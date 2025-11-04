@@ -28,4 +28,4 @@ When I’m not coding, I’m probably sketching new design ideas, exploring fron
 📫 Let’s Connect
 
 💼 LinkedIn : [https://www.linkedin.com/in/oluwatomisin-oduniyi-490aab385/]
-[[![Tomisin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomisin2006)](https://github.com/Tomisin2006/github-readme-stats)
+[[![Tomisin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomsin2006&show_icons=true&theme=radical)](https://github.com/Tomisin2006/github-readme-stats)
