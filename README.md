@@ -1,4 +1,4 @@
-👋 Hey there, I'm Oluwatomisin Oduniyi  
+# 👋 Hey there, I'm Oluwatomisin Oduniyi  
 Frontend Developer | Computer Engineering Student (Covenant University, 4th Year)  
 -I’m passionate about building clean, responsive, and user-centered web applications.I love turning Figma designs into smooth, interactive interfaces with React.  
 -Constantly learning, improving, and exploring new front-end technologies.  
